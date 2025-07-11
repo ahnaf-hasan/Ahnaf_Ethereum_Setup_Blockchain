@@ -58,7 +58,7 @@ geth --datadir "node2" account new
 ![Node_2](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/node_2_account.png)
 Note : 
 - This command will prompt you to enter a passphrase and generates Public and Private Keys.
-- For future reference, save the keypair in the file [**network_keypair.txt**](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/ahnaf_tahmid_private_ethereum_setup/network_keypairs)
+- For future reference, save the keypair in the file [**network_keypair.txt**](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/ahnaf_tahmid_private_ethereum_setup/network_keypair)
 - **Important step:**
   - For each node, save the password in a file, **password.txt** :
   - Make a note of the public addresses of both node1 and node2, they will be required later
