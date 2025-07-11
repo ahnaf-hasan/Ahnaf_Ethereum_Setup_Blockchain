@@ -254,7 +254,7 @@ web3.eth.getTransaction("0x91dcc5cd3f903ad988faea6998795118df5e7105876fd7776c53c
 
 **Note:** 0x91dcc5cd3f903ad988faea6998795118df5e7105876fd7776c53c2021233b1ab : Hash of the Transaction
 
-![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_6.png)
+![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_0.png)
 
 **14. To check the contents in the Mempool - Transaction Pool** : 
 ```
@@ -263,14 +263,14 @@ txpool.content
 
 **Note:** Perform a set of 5 transactions as discussed in the above step and then, check the mempool
 
-![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_8.png)
+![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_0.png)
 
 **15. To check the status of the Mempool - Transaction Pool** : 
 ```
 txpool.status
 ```
 
-![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_7.png)
+![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_0.png)
 
 **10. To check the transactions initiated by a client, which are in the pool** : 
 ```
