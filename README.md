@@ -245,7 +245,7 @@ web3.fromWei(eth.getBalance("0xE29872Bb88786e671c04Ee79490B133775EB60ea"), "ethe
 
 **12. To check the details of the transaction on Node 1 Terminal**
 
-![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_node_0_explore.png)
+![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_node_1_explore.png)
 
 **13. To get the details of the block in which the transaction is added** :
 ```
