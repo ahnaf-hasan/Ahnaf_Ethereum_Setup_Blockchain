@@ -281,7 +281,7 @@ txpool.contentFrom("0x8a7AEE752B6aFE9BE3c6C4b5d71Df0Be09f178Ee")
 
 ![Geth_explore](https://github.com/ahnaf-hasan/Ahnaf_Ethereum_Setup_Blockchain/blob/main/images/geth_explore_9.png)
 
-## Acknowledgements
+## Acknowledgement
 * [Go Ethereum Documentation : End-to-end example](https://geth.ethereum.org/docs/fundamentals/private-network#end-to-end-example)
 
 * [Go Ethereum - Github Developers Community] Private Ethereum Network setup using Geth.
